@@ -1,7 +1,7 @@
 title: Welcome to Manali's Portfolio
-logo: "C:\Users\manal\Pictures\PSX_20210825_214051 (2).jpg"
+#logo: "C:\Users\manal\Pictures\PSX_20210825_214051 (2).jpg"
 description: I am a Data Analyst with excellent problem solving skills armed with the knowledge of Excel, SQL, Power BI, Tableau.
-description: I am passionate about diving deep into data to extract meaningful information, visualize and present data so that others can easily make sense of it.
+#description: I am passionate about diving deep into data to extract meaningful information, visualize and present data so that others can easily make sense of it.
 #description: Minimal is a theme for GitHub Pages.
 #show_downloads: true
 theme: jekyll-theme-minimal
